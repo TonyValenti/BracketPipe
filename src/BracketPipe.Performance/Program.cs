@@ -1,4 +1,3 @@
-﻿using Ganss.XSS;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -8,6 +7,7 @@ using System.Threading.Tasks;
 using BracketPipe;
 using System.IO;
 using WebMarkupMin.Core;
+using Ganss.Xss;
 
 namespace BracketPipe.Performance
 {
