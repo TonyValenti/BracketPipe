@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11408.102 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketPipe.Tests", "BracketPipe.Tests\BracketPipe.Tests.csproj", "{C3074D7E-CA6C-4F2C-813D-BD97462DC3EB}"
 EndProject
@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketPipe.Textile", "BracketPipe.Textile\BracketPipe.Textile.csproj", "{F9E47FA5-9A29-8CCB-BF9F-C4D468EA916B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +34,10 @@ Global
 		{7FF8BF41-8A15-4CDA-AC3C-2BDBEE7B265C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FF8BF41-8A15-4CDA-AC3C-2BDBEE7B265C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FF8BF41-8A15-4CDA-AC3C-2BDBEE7B265C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9E47FA5-9A29-8CCB-BF9F-C4D468EA916B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E47FA5-9A29-8CCB-BF9F-C4D468EA916B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E47FA5-9A29-8CCB-BF9F-C4D468EA916B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E47FA5-9A29-8CCB-BF9F-C4D468EA916B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

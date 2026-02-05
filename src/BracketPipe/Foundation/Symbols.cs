@@ -1,4 +1,4 @@
-﻿namespace BracketPipe
+namespace BracketPipe
 {
   using System;
   using System.Collections.Generic;
@@ -6,7 +6,7 @@
   /// <summary>
   /// Contains useful information from the specification.
   /// </summary>
-  static class Symbols
+  public static class Symbols
   {
     /// <summary>
     /// The end of file marker (Char.MaxValue).
